@@ -35,10 +35,10 @@ with st.sidebar:
     st.sidebar.title("About")
     st.sidebar.info(
         """
-        This web [app](https://share.streamlit.io/giswqs/streamlit-template) is maintained by [Qiusheng Wu](https://wetlands.io). You can follow me on social media:
-            [GitHub](https://github.com/giswqs) | [Twitter](https://twitter.com/giswqs) | [YouTube](https://www.youtube.com/c/QiushengWu) | [LinkedIn](https://www.linkedin.com/in/qiushengwu).
+        This web [app](https://share.streamlit.io/akshat-kumar-jain/geospatial_stramlit/main) is maintained by [Akshat Kumar Jain](https://github.com/Akshat-kumar-jain). You can follow me on social media:
+            [GitHub](https://github.com/Akshat-kumar-jain) | [Twitter](https://twitter.com/AkjderB) | [LinkedIn](https://www.linkedin.com/in/akshat-kumar-jain-3a2a09132/).
         
-        Source code: <https://github.com/giswqs/streamlit-template>
+        Source code: <https://github.com/Akshat-kumar-jain/GeoSpatial_Stramlit>
 
         More menu icons: <https://icons.getbootstrap.com>
     """
