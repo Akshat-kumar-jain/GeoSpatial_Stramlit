@@ -44,7 +44,7 @@ def app():
 
         url = st.text_input(
             "Enter a URL to a vector dataset",
-            "https://github.com/Akshat-kumar-jain/GeoSpatial_Stramlit/blob/main/us_states.geojson",
+            "https://github.com/Akshat-kumar-jain/GeoSpatial_Stramlit/blob/main/us_counties.geojson",
         )
 
         data = st.file_uploader(
