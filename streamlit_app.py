@@ -12,7 +12,7 @@ apps = {
     "home": {"title": "Home", "icon": "house"},
     "heatmap": {"title": "Heatmap", "icon": "map"},
     "upload": {"title": "Upload", "icon": "cloud-upload"},
-    "vector": {"title": "Vector", "icon": "map-marker"},
+    "vector": {"title": "Vector", "icon": "map-fill"},
 }
 
 titles = [app["title"] for app in apps.values()]
