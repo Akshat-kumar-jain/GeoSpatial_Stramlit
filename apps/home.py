@@ -24,9 +24,9 @@ def app():
     )
 
     
-        st.image("https://github.com/Akshat-kumar-jain/GeoSpatial_Stramlit/blob/main/132a2fee227448bf0e55995718e0fb77-89a1f02b89cab10ef8f63e140be40dde_getPixels%20(4).gif")
-        st.image("https://github.com/Akshat-kumar-jain/GeoSpatial_Stramlit/blob/main/6cab6d96-4f7d-4819-a31e-ada7e283622f%20(1).gif")
+    st.image("https://github.com/Akshat-kumar-jain/GeoSpatial_Stramlit/blob/main/132a2fee227448bf0e55995718e0fb77-89a1f02b89cab10ef8f63e140be40dde_getPixels%20(4).gif")
+    st.image("https://github.com/Akshat-kumar-jain/GeoSpatial_Stramlit/blob/main/6cab6d96-4f7d-4819-a31e-ada7e283622f%20(1).gif")
 
     
-        st.image("https://github.com/giswqs/data/raw/main/timelapse/goes.gif")
-        st.image("https://github.com/giswqs/data/raw/main/timelapse/fire.gif")
+    st.image("https://github.com/giswqs/data/raw/main/timelapse/goes.gif")
+    st.image("https://github.com/giswqs/data/raw/main/timelapse/fire.gif")
