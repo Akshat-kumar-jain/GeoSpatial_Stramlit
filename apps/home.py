@@ -23,11 +23,11 @@ def app():
     """
     )
 
-    if st.checkbox('checkbox'):
-        st.image("https://drive.google.com/file/d/1aDF8Tf3x3LXSyct8SJNpZUuasjwpQYLp/view?usp=sharing")
+   
     st.image("https://drive.google.com/file/d/1aDF8Tf3x3LXSyct8SJNpZUuasjwpQYLp/view?usp=sharing")
     st.image("https://github.com/Akshat-kumar-jain/GeoSpatial_Stramlit/blob/main/6cab6d96-4f7d-4819-a31e-ada7e283622f%20(1).gif")
 
-    
+    st.image("https://github.com/giswqs/data/raw/main/timelapse/spain.gif")
+    st.image("https://github.com/giswqs/data/raw/main/timelapse/las_vegas.gif")
     st.image("https://github.com/giswqs/data/raw/main/timelapse/goes.gif")
     st.image("https://github.com/giswqs/data/raw/main/timelapse/fire.gif")
