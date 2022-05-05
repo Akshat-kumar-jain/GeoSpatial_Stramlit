@@ -30,4 +30,4 @@ def app():
     st.image("https://github.com/giswqs/data/raw/main/timelapse/spain.gif")
     st.image("https://github.com/giswqs/data/raw/main/timelapse/las_vegas.gif")
     st.image("https://github.com/giswqs/data/raw/main/timelapse/goes.gif")
-    st.image("https://github.com/giswqs/data/raw/main/timelapse/fire.gif")
+    st.image("https://github.com/giswqs/data/raw/main/timelapse/fire.gif") 
