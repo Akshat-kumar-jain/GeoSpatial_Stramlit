@@ -19,8 +19,7 @@ def app():
     st.subheader("Timelapse of Satellite Imagery")
     st.markdown(
         """
-        The following timelapse animations were created using the Timelapse web app. Click `Create Timelapse` on the left sidebar menu to create your own timelapse for any location around the globe.
-    """
+        The following timelapse animations were created using the Timelapse web app. 
     )
 
    
