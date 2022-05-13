@@ -20,6 +20,7 @@ def app():
     st.markdown(
         """
         The following timelapse animations were created using the Timelapse web app. 
+        """
     )
 
    
